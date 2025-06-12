@@ -1,6 +1,6 @@
 
 ![gif2](https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519)
-
+<img src="[path/to/your/gif.gif](https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519)" alt="Description of your GIF" width="500">
 Hi there, I'm Saashmeet Singh! 👋
 About Me ✨
 A Computer Science major with a focused interest in data science, specializing in predictive modeling, automation techniques, and AI/ML research. I have a particular emphasis on finance-oriented projects and innovative problem-solving. I'm actively advancing my technical expertise through MongoDB-focused DBMS training and independently exploring Gen-AI applications. Highly adaptable in collaborative environments, I contribute effectively to team efforts and maintain a strong commitment to continuous learning and the exploration of emerging technologies in computer science.
