@@ -1,4 +1,5 @@
 
+![gif2](https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519)
 
 Hi there, I'm Saashmeet Singh! 👋
 About Me ✨
