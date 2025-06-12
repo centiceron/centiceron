@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519" alt="Description of your GIF" height="200" width="1000">
+<img src="https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519" alt="Description of your GIF" height="300" width="1000">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
