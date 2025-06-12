@@ -1,3 +1,5 @@
+![](https://github.com/centiceron.github.io/GIF.gif)
+
 Hi there, I'm Saashmeet Singh! 👋
 About Me ✨
 A Computer Science major with a focused interest in data science, specializing in predictive modeling, automation techniques, and AI/ML research. I have a particular emphasis on finance-oriented projects and innovative problem-solving. I'm actively advancing my technical expertise through MongoDB-focused DBMS training and independently exploring Gen-AI applications. Highly adaptable in collaborative environments, I contribute effectively to team efforts and maintain a strong commitment to continuous learning and the exploration of emerging technologies in computer science.
