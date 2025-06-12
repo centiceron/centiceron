@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519" alt="Description of your GIF" height="300" width="1000">
+<img src="https://github.com/user-attachments/assets/dfa167d0-20ed-4559-92e3-13750db1a519" alt="Description of your GIF" height="350" width="1000">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Conducted research on Graph Coloring using Greedy Algorithm and Financial Sentim
 Achieved a Top 5 finish out of 24 teams in an intra-college hackathon.
 
 📫 Get In Touch
-Email: saashsinah04@gmail.com
+Email: saashsingh04@gmail.com
 
 LinkedIn: [Your LinkedIn Profile URL Here]
 
