@@ -1,4 +1,4 @@
-![](https://github.com/centiceron.github.io/GIF.gif)
+
 
 Hi there, I'm Saashmeet Singh! 👋
 About Me ✨
