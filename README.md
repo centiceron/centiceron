@@ -3,66 +3,87 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hi there, I'm Saashmeet Singh! 👋
-About Me ✨
-A Computer Science major with a focused interest in data science, specializing in predictive modeling, automation techniques, and AI/ML research. I have a particular emphasis on finance-oriented projects and innovative problem-solving. I'm actively advancing my technical expertise through MongoDB-focused DBMS training and independently exploring Gen-AI applications. Highly adaptable in collaborative environments, I contribute effectively to team efforts and maintain a strong commitment to continuous learning and the exploration of emerging technologies in computer science.
+<h1 align="center">Hi there, I'm Saashmeet Singh! 👋</h1>
+<h3 align="center">🚀 Computer Science Major | Data Science & AI/ML Enthusiast | Finance-Tech Innovator</h3>
 
-🚀 Check out my fully interactive profile and portfolio!
-Click here to explore a more dynamic and detailed view of my projects and skills:
-➡️ Visit my Interactive Portfolio ⬅️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Passionate+about+AI%2C+ML+%26+Gen-AI;Exploring+Finance-Driven+Tech+Solutions;Collaborative+%7C+Curious+%7C+Continuous+Learner" alt="Typing SVG" />
+</p>
 
-🛠️ Skills & Expertise
-Here's a snapshot of my technical toolkit:
+---
 
-Programming & Data:
+### 🔍 About Me
 
-Python (Data Analysis, ML/DL)
+- 🎓 CS Major with a keen focus on **Data Science**, **Predictive Modeling**, and **Automation**
+- 💸 Passionate about building intelligent systems for **Finance-oriented applications**
+- 🧠 Exploring the cutting edge in **AI/ML**, **Gen-AI**, and **LLM Fine-Tuning**
+- 💾 Currently enrolled in **MongoDB-focused DBMS training**
+- 🤝 Thrive in collaborative environments, committed to **continuous learning & innovation**
 
-SQL
+---
 
-Data Structures and Algorithms
+### 🧰 Skills & Tools
 
-Machine Learning & AI:
+#### 👨‍💻 Programming & Data
+- `Python` (Data Analysis, ML/DL)
+- `SQL`, `Data Structures & Algorithms`
 
-Machine Learning & Operations (TensorFlow, Jenkins)
+#### 🤖 Machine Learning & AI
+- TensorFlow, Keras, Hugging Face
+- ML Operations (e.g., Jenkins CI/CD)
+- NLP, Financial Sentiment Analysis
+- Gen-AI & LLM Fine-Tuning
 
-Deep Learning (TensorFlow, Keras, Hugging Face)
+#### 🌐 Web & Tools
+- Full-stack Web Development
+- MongoDB (NoSQL), Git/GitHub
+- Microsoft Office (Excel, Word, PowerPoint)
 
-NLP and LLM Fine Tuning
+---
 
-Gen-AI Applications
+### 🚀 Featured Projects
 
-Web & Tools:
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔹 [VirtuHire](#) | AI-powered recruitment simulator with real-time video & unbiased candidate evaluation | AI/ML, WebRTC, Flask |
+| 🔹 [Calorie Counter App](#) | Web app for efficient calorie tracking and personalized weight management | MongoDB, JS, Flask |
+| 🔹 [Financial Sentiment Analysis](#) | Used RoBERTa & VADER to analyze financial news for market decision insights | NLP, Transformers |
+| 🔹 [YouTube Video Summarizer](#) | Fine-tuned LLM to auto-summarize YouTube videos into readable text | Python, Hugging Face, LLMs |
 
-Web Applications (Frontend & Backend)
+---
 
-MongoDB (DBMS)
+### 🏆 Achievements
 
-Git & GitHub
+- 🧪 Conducted research on **Graph Coloring** & **Financial Sentiment Models** under faculty mentorship
+- 🥇 **Top 5 Finalist** among 24 teams in an intra-college **Hackathon**
+- 🧩 Created multiple automation & ML solutions for academic and personal innovation
 
-Microsoft Office (Word, Excel, PowerPoint)
+---
 
-💡 Featured Projects
-Take a look at some of my key projects:
+### 🌐 Explore More
 
-VirtuHire: A web-based AI-Powered Recruitment Simulator leveraging AI, ML, and real-time video conferencing for seamless, unbiased talent evaluation.
+👉 Check out my **[Interactive Portfolio](#)**  
+📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/your-profile) | ✉️ Email: `your.email@example.com`
 
-Calorie Counter: A Web Application designed for effective Calorie and Weight management.
+---
 
-Exploring Financial Sentiment Analysis: Leveraging ROBERTa and NLP Techniques for Enhanced Decision-Making in Finance.
+### 📊 GitHub Stats
 
-YouTube Video Summarizer (LLM Fine-Tuning): Fine-tuned a Large Language Model (LLM) to summarize YouTube videos through their respective links, producing concise and readable text summaries that preserve context.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" width="48%"/>
+</p>
 
-💼 Experience & Achievements
-Conducted research on Graph Coloring using Greedy Algorithm and Financial Sentiment Analysis (comparing ROBERTa and VADER models), with findings presented in reports under faculty mentorship.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
 
-Achieved a Top 5 finish out of 24 teams in an intra-college hackathon.
+---
 
-📫 Get In Touch
-Email: saashsingh04@gmail.com
+### ☕ Fun Fact
 
-LinkedIn: [Your LinkedIn Profile URL Here]
+> "You can’t use up creativity. The more you use, the more you have." — Maya Angelou
 
-GitHub: Your GitHub Profile URL Here (This page!)
+---
 
 Connect with me! Let's build something amazing together.
