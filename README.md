@@ -70,12 +70,12 @@
 ### 📊 GitHub Stats
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=centiceron&show_icons=true&theme=tokyonight" width="48%" style="margin-left: 1%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=centiceron&theme=tokyonight" width="48%" style="margin-left: 1%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=centiceron&theme=tokyo-night" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=centiceron&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=centiceron&show_icons=true&theme=tokyonight" width="48%" style="margin-left: 1%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=centiceron&layout=compact&theme=tokyonight" width="48%" style="margin-left: 3%" />
 </p>
 
 ---
