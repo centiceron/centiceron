@@ -63,7 +63,7 @@
 ### 🌐 Explore More
 
 👉 Check out my **[Interactive Portfolio](#)**  
-📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/your-profile) | ✉️ Email: `saashsingh04@gmail.com`
+📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/your-profile)
 
 ---
 
