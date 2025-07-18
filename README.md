@@ -63,7 +63,7 @@
 ### 🌐 Explore More
 
 👉 Check out my **[Interactive Portfolio](#)**  
-📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/your-profile)
+📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/saashmeet-singh-2b147736b/)
 
 ---
 
